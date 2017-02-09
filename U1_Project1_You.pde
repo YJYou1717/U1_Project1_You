@@ -1,4 +1,9 @@
-         float x1=0;
+/*
+Youngjun You
+Moving stars in space
+*/
+
+float x1=0;
 float y1=0;
 PImage Star;
 PImage galaxy;
@@ -215,126 +220,26 @@ void draw()
   }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+  if (key==' ')
+  {
+    text("多多益善",600,400);
+    fill(0,0,250);
+    
+  }
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  }
+ void keyReleased()
+  {
+    if(key==' ')
+    {
+      
+    }
+  }
